@@ -2,7 +2,7 @@
 
 The score for this performance is included within the docstrings of `nineteen_questions.py`.
 
-After updating (perhaps a duplicate) the file, simply run:
+After updating the file or a duplicate, simply run:
 
 ```bash
 python -m ninteen_questions
